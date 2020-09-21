@@ -1,3 +1,4 @@
+""" Configuration for RGB LED Controller """
 import pigpio
 
 # NETWORK SETTINGS
